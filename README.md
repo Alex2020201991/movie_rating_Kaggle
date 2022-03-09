@@ -9,4 +9,5 @@
 **Kaggle project link https://www.kaggle.com/yasserh/imdb-movie-ratings-sentiment-analysis**
 
 
-![sentiment-analysis-introduction](https://user-images.githubusercontent.com/73969654/157485064-5debbce8-7a38-4685-a5c3-2e0c8489a9ba.jpg)
+
+![sentiment-analysis-introduction](https://user-images.githubusercontent.com/73969654/157485179-938e026d-ba24-4786-aac5-56fee1b4dc4b.jpg)
