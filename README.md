@@ -10,4 +10,5 @@
 
 
 
-![sentiment-analysis-introduction](https://user-images.githubusercontent.com/73969654/157485179-938e026d-ba24-4786-aac5-56fee1b4dc4b.jpg)
+
+![sentiment-analysis-introduction (1)](https://user-images.githubusercontent.com/73969654/157485431-08cb2ff4-9436-4738-a402-643fced91d51.jpg)
